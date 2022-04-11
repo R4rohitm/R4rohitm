@@ -4,7 +4,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=R4rohitm&show_icons=true&theme=city_lights" width="700">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=R4rohitm&theme=city-lights&date_format=M%20j%5B%2C%20Y%5D&fire=DD1919&dates=DDDDD5)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=R4rohitm&theme=city-lights&date_format=M%20j%5B%2C%20Y%5D&fire=DD1919&dates=DDDDD5) width="700"](https://git.io/streak-stats)
 
 <!--
 **R4rohitm/R4rohitm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
