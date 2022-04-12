@@ -2,6 +2,9 @@
 
 ### I'm a Full Stack Web Developer (MERN) based in Aurangabad, Maharashtra
 
+
+<img src-"https://www.canva.com/design/DAE9sUZ7XqA/4K5834Ai4Uh6ssmzbE8imA/watch" />
+
 <img src="https://github-readme-stats.vercel.app/api?username=R4rohitm&show_icons=true&theme=city_lights" width="700">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=R4rohitm&theme=city-lights&date_format=M%20j%5B%2C%20Y%5D&fire=DD1919&dates=DDDDD5" width="700"/>
