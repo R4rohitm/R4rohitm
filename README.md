@@ -7,15 +7,19 @@ And that's when it happened; the spark I was missing ignited the instant I click
 
 I love applying responsive design principles and watching my web pages shrink into mobile screens and still look amazing. It's oddly satisfying. I think in a way I'm kind of like those web pages; I'm moldable, but I still keep my creative flare intact.</h5>
 
+<h1 align="center"> </h1>
+
 <h1 align="center"> Technology / Stack</h1>
 
-<img src="https://imgur.com/VtzMu7P.png"/>
+<img src="https://imgur.com/VtzMu7P.png">
 
-<img src="https://github-readme-stats.vercel.app/api?username=R4rohitm&show_icons=true&theme=city_lights" width="700">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=R4rohitm&show_icons=true&theme=city_lights" width="700">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=R4rohitm&theme=city-lights&date_format=M%20j%5B%2C%20Y%5D&fire=DD1919&dates=DDDDD5" width="700"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=R4rohitm&theme=city-lights&date_format=M%20j%5B%2C%20Y%5D&fire=DD1919&dates=DDDDD5" width="700"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R4rohitm&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R4rohitm&layout=compact" />
+
+<h1 align="center"> Thank You 🙏</h1>
 
 <!--
 **R4rohitm/R4rohitm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
