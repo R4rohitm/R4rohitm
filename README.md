@@ -9,17 +9,24 @@ I love applying responsive design principles and watching my web pages shrink in
 
 <h1 align="center"> </h1>
 
-<h1 align="center"> Technology / Stack</h1>
+<h2 align="center"> Technology / Stack</h2>
 
 <img src="https://imgur.com/VtzMu7P.png">
+<h4 align="center"> </h4>
+
+<h3 align="left"> GitHub Stats</h3>
+<h2 align="center"> </h2>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=R4rohitm&show_icons=true&theme=city_lights" width="700">
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=R4rohitm&theme=city-lights&date_format=M%20j%5B%2C%20Y%5D&fire=DD1919&dates=DDDDD5" width="700"/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R4rohitm&layout=compact" />
 
-<h1 align="center"> Thank You 🙏</h1>
+<h2 align="center"> Thank You 🙏</h2>
 
 <!--
 **R4rohitm/R4rohitm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
