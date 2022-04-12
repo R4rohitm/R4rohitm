@@ -7,20 +7,20 @@ And that's when it happened; the spark I was missing ignited the instant I click
 
 I love applying responsive design principles and watching my web pages shrink into mobile screens and still look amazing. It's oddly satisfying. I think in a way I'm kind of like those web pages; I'm moldable, but I still keep my creative flare intact.</h5>
 
-<h1 align="center"> </h1>
+<p>&nbsp;</p>
 
 <h2 align="center"> Technology / Stack</h2>
 
 <img src="https://imgur.com/VtzMu7P.png">
+<p>&nbsp;</p>
+
 <h4 align="center"> </h4>
 
-<h3 align="left"> GitHub Stats</h3>
-<h2 align="center"> </h2>
+<h2 align="left"> GitHub Stats</h2>
+
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=R4rohitm&show_icons=true&theme=city_lights" width="700">
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=R4rohitm&theme=city-lights&date_format=M%20j%5B%2C%20Y%5D&fire=DD1919&dates=DDDDD5" width="700"/>
 
