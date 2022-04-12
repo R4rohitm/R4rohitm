@@ -1,7 +1,6 @@
-###
-<div style="color:red">Hi there 👋 I'm Rohit Mahajan</div>
+ # Hi there 👋 I'm Rohit Mahajan
 
-
+### I'm a Full Stack Web Developer (MERN) based in Aurangabad, Maharashtra
 
 <img src="https://github-readme-stats.vercel.app/api?username=R4rohitm&show_icons=true&theme=city_lights" width="700">
 
