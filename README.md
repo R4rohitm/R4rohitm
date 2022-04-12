@@ -1,4 +1,4 @@
- <h1 align="center"> Hi there 👋 I'm Rohit Mahajan</h1>
+ <h1 align="center"> Hi there 👋 I'm Rohit Mahajan 🤖</h1>
 
 <h5 align="left">I'm a Full Stack Web Developer (MERN) based in Aurangabad, Maharashtra. I'd say I'm a passionate developer who loves coding. </h5>
 <h5 align="left">  I always thought my dream was to be a proofreader for a little publishing company, sipping my coffee and reading the opening lines to the next best-selling novel. It seemed like an appropriate dream given my MA in English. I gravitated toward proofreading and quality control positions. But I kind of just felt meh. I yearned to learn more, yearned to learn something different.
@@ -7,11 +7,14 @@ And that's when it happened; the spark I was missing ignited the instant I click
 
 I love applying responsive design principles and watching my web pages shrink into mobile screens and still look amazing. It's oddly satisfying. I think in a way I'm kind of like those web pages; I'm moldable, but I still keep my creative flare intact.</h5>
 
+<h4 align="left"><i>Let's Connect 🤖</i></h4>
+
 <a href="https://www.linkedin.com/in/imrohitmahajan/" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1649789617~hmac=f955cd304c934a9da77256d5ecdf0b64" height="28"/></a>
 <a href="https://twitter.com/r4rohit15" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/4494/premium/4494477.png?token=exp=1649789617~hmac=6372527d9ca682ac99ffd5dccb5e1fe4" height="28" /></a>
 <a href="https://www.facebook.com/R4rohitm" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174848.png" height="28"/></a>
 <a href="https://www.instagram.com/imrohitmahajan/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" height="28" /></a>
-<a href="mailto:r4rohit@gmail.comm" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/3178/premium/3178283.png?token=exp=1649790072~hmac=ca3652e53b09b39c892a426ccc0aa196" height="28" /></a>
+<a href="mailto:r4rohit@gmail.com" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/3178/premium/3178283.png?token=exp=1649790072~hmac=ca3652e53b09b39c892a426ccc0aa196" height="28" /></a>
+<a href="tel:+91-9673216067" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/724/724664.png" height="28" /></a>
 
 
 <p>&nbsp;</p>
