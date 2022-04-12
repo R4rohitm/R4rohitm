@@ -7,6 +7,8 @@ And that's when it happened; the spark I was missing ignited the instant I click
 
 I love applying responsive design principles and watching my web pages shrink into mobile screens and still look amazing. It's oddly satisfying. I think in a way I'm kind of like those web pages; I'm moldable, but I still keep my creative flare intact.</h5>
 
+<a href="https://www.linkedin.com/in/imrohitmahajan/" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1649789617~hmac=f955cd304c934a9da77256d5ecdf0b64" height="100" /></a>
+
 <p>&nbsp;</p>
 
 <h2 align="center"> Technology / Stack</h2>
