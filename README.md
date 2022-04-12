@@ -11,6 +11,7 @@ I love applying responsive design principles and watching my web pages shrink in
 <a href="https://twitter.com/r4rohit15" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/4494/premium/4494477.png?token=exp=1649789617~hmac=6372527d9ca682ac99ffd5dccb5e1fe4" height="28" /></a>
 <a href="https://www.facebook.com/R4rohitm" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174848.png" height="28"/></a>
 <a href="https://www.instagram.com/imrohitmahajan/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" height="28" /></a>
+<a href="mailto:r4rohit@gmail.comm" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/3178/premium/3178283.png?token=exp=1649790072~hmac=ca3652e53b09b39c892a426ccc0aa196" height="28" /></a>
 
 
 <p>&nbsp;</p>
