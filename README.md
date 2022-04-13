@@ -36,6 +36,8 @@ I love applying responsive design principles and watching my web pages shrink in
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R4rohitm&layout=compact" />
 
+![](https://komarev.com/ghpvc/?username=R4rohitm)
+
 <h2 align="center"> Thank You 🙏</h2>
 
 <!--
