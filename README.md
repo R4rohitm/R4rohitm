@@ -27,14 +27,22 @@ I love applying responsive design principles and watching my web pages shrink in
 <h4 align="center"> </h4>
 
 <h2 align="left"> GitHub Stats</h2>
+<p>&nbsp;</p>
 
-
+<h1 align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=R4rohitm&show_icons=true&theme=city_lights" width="700">
+ <p>&nbsp;</p>
+ 
 
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=R4rohitm&theme=city-lights&date_format=M%20j%5B%2C%20Y%5D&fire=DD1919&dates=DDDDD5" width="700"/>
+ <p>&nbsp;</p>
+ 
+
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R4rohitm&layout=compact" />
+ 
+  </h2>
 
 ![](https://komarev.com/ghpvc/?username=R4rohitm)
 
